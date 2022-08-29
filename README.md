@@ -1,5 +1,7 @@
 # Construindo-um-Esquema-Conceitual do Zero
 
+# Praticando sou Iniciante se houver erros, peço por favor que me ajude 😉
+
 # Objetivo:
 
 Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida.
@@ -24,4 +26,4 @@ Cada OS possui: n°, data de emissão, um valor, status e uma data para conclus�
 
 Os mecânicos possuem código, nome, endereço e especialidade.
 
-Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+
